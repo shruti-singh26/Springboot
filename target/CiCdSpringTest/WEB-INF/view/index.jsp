@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <html lang="en">
-<body>
+<body bgcolor="yellow">
     <div>
         <div>
             <h1>Spring Boot Demo</h1>
